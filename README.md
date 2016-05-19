@@ -10,6 +10,15 @@ $simpleGmail->send("Divye Kapoor", "trash@example.com", "Email Subject", "Email 
 
 Runtime Dependencies: PHP Curl (usually widely available on most web servers).
 
+How to Use
+==========
+
+```sh
+composer require divyekapoor/simplegmail
+```
+
+The package is available (on packagist)[https://packagist.org/packages/divyekapoor/simplegmail] and can be used via composer. Installation instructions for composer (are here)[https://getcomposer.org/download/].
+
 License
 =======
 
