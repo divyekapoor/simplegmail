@@ -1,0 +1,15 @@
+{
+    "name": "divyekapoor/simplegmail",
+    "description": "This project sets up a simple class for emailing via GMail.",
+    "require": {
+        "phpmailer/phpmailer": "^5.2",
+        "league/oauth2-google": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Divye Kapoor",
+            "email": "divyekapoor@gmail.com"
+        }
+    ]
+}
