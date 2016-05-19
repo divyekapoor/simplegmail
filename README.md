@@ -4,8 +4,9 @@ SimpleGmail
 A class to email via Gmail using PHP.
 
 ```php
-$simpleGmail = new SimpleGmail("John Doe", "john.doe@gmail.com", "john.doe.password");
-$simpleGmail->send("Divye Kapoor", "trash@example.com", "Email Subject", "Email Body");
+$simpleGmail = new SimpleGmail("Sender Name", "john.doe@gmail.com", "john.doe.password");
+$simpleGmail->send("Receiver Name", "receiver_email@example.com", "Email Subject", "Email Body");
+$simpleGmail->send("Divye Kapoor", "divye@example.com", "Email Subject", "Email Body");
 ```
 
 Runtime Dependencies: PHP Curl (usually widely available on most web servers).
