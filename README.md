@@ -17,7 +17,7 @@ How to Use
 composer require divyekapoor/simplegmail
 ```
 
-The package is available (on packagist)[https://packagist.org/packages/divyekapoor/simplegmail] and can be used via composer. Installation instructions for composer (are here)[https://getcomposer.org/download/].
+The package is available [on packagist](https://packagist.org/packages/divyekapoor/simplegmail) and can be used via composer. Installation instructions for composer [are here](https://getcomposer.org/download/).
 
 License
 =======
